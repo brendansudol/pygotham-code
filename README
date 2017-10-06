@@ -1,5 +1,12 @@
-code samples accompanying my pygotham talk
+code samples that accompany my pygotham talk
 
 https://2017.pygotham.org/talks/build-your-own-not-hotdog-deep-learning-model/
 
 🖼️🔢✨
+
+---
+
+$ virtualenv venv -p python3
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+$ jupyter notebook
